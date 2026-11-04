@@ -10,7 +10,7 @@ Actualmente trabajo como desarrollador RPA, automatizando procesos con Python, U
 
 Lo que más valoro en el trabajo es la coherencia: que el código esté tan pensado como el producto que representa.`,
   contact: {
-    email: 'tu@email.com', // ← Reemplaza con tu email real
+    email: 'raullsdev@gmail.com',
     github: 'https://github.com/rauliesan',
     linkedin: 'https://www.linkedin.com/in/raúl-liébana-sánchez-9a1489385/',
   },
